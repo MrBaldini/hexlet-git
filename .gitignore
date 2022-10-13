@@ -47,3 +47,4 @@ docker-compose.yml
 .idea/
 access.log
 doc/**/*.txt
+INFO.md
